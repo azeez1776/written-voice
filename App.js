@@ -172,6 +172,7 @@ const styles = StyleSheet.create({
     padding: 0,
     borderRadius: 7,
     padding: moderateScale(10),
-    color: 'black'
+    color: 'black',
+    fontSize: 20
   }
 });
